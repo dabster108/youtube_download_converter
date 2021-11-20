@@ -29,6 +29,8 @@ def choose_resolution(resolution):
     return itag
 
 
+
+
 def input_links():
     print("Enter the links of the videos (end by entering 'STOP'):")
 
